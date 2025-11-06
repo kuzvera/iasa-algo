@@ -5,5 +5,7 @@
 - Connectivity [982](https://eolymp.com/en/problems/982)
 - Is it a Tree? [977](https://eolymp.com/en/problems/977)
 - Topological Sort [1948](https://eolymp.com/en/problems/1948)
-- Center of the tree [4235](https://eolymp.com/en/problems/4235)
 - Tree Diameter [11428](https://eolymp.com/en/problems/11428)
+- Center of the tree [4235](https://eolymp.com/en/problems/4235)
+
+https://youtu.be/LZWlNvfIpTo
