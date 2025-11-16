@@ -9,3 +9,10 @@
 - Center of the tree [4235](https://eolymp.com/en/problems/4235)
 
 https://youtu.be/LZWlNvfIpTo
+
+## Maximum Bipartite Matching
+
+- Maximum matching [1989](https://eolymp.com/en/problems/1989)
+- Pairing [5444](https://eolymp.com/en/problems/5444)
+
+https://youtu.be/W0memOkQsxo
